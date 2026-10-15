@@ -1,0 +1,6 @@
+{
+  "name": "TieBreaker - AI Decision Engine",
+  "description": "Make confident decisions with AI-powered pros & cons analysis, side-by-side comparison tables, SWOT breakdowns, and personalized tie-breaking verdicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
